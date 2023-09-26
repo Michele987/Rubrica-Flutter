@@ -1,16 +1,6 @@
-# address_book
+# App Rubrica sviluppata con Flutter e Dart.
+Questo progetto è stato sviluppato durante il master seguito insieme a Elis, il progetto consiste in un'app della Rubrica dove l'utente 
+può eseguire le operazioni CRUD e tantissimo altro :) include anche l'uso del Database per cui i contatti verranno salvati anche li.
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
